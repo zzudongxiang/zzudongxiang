@@ -2,21 +2,17 @@
 
 ## <img src="Assets/info-circle-solid.svg" width="32px"> 个人信息
 
-<div> 
-   <div style="float: left"> 
-    <li> <img src="Assets/graduation-cap-solid.svg" width="20px" /><b> 基本信息：</b>男，1996年 6月 出生</li> 
-    <li><img src="Assets/envelope-solid.svg" width="20px" /><b> 电子邮箱：</b> <a href="mailto:zzudongxiang@163.com"> zzudongxiang@163.com </a> 、 <a href="mailto:zzudongxiang@gmail.com"> zzudongxiang@gmail.com </a></li> 
-    <li><img src="Assets/phone-solid.svg" width="20px" /><b> 联系电话：</b> 155 1847 6998</li> 
-    <li><img src="Assets/github-brands.svg" width="20px" /><b> Github：</b> <a href="https://github.com/zzudongxiang"> Github </a> </li> 
-    <li> <img src="Assets/tools-solid.svg" width="20px" /><b> 工作领域：</b>数字图像、嵌入式、多媒体应用等</li> 
-   </div> 
-   <div style="float: right"> 
-    <img height="150px" src="Avatar/IMG_0133.JPG" /> 
-   </div> 
-  </div>
-  <div style="clear: both"></div>
+- <img src="Assets/graduation-cap-solid.svg" width="20px"/> **基本信息：** 男，1996年 6月 出生
 
+- <img src="Assets/envelope-solid.svg" width="20px"/> **电子邮箱：** [zzudongxiang@163.com](mailto:zzudongxiang@163.com)、[zzudongxiang@gmail.com](mailto:zzudongxiang@gmail.com)
 
+- <img src="Assets/phone-solid.svg" width="20px"/> **联系电话：** 155 1847 6998
+
+- <img src="Assets/phone-solid.svg" width="20px"/> **工作领域：** 数字图像、嵌入式、多媒体应用等
+
+- <img src="Assets/phone-solid.svg" width="20px"/> **Github：** [zzudongxiang](https://github.com/zzudongxiang)
+
+- <img src="Avatar/IMG_0133.JPG" width="120px"/>
 
 ## <img src="Assets/graduation-cap-solid.svg" width="32px"> 教育经历
 
